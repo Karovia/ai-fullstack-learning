@@ -1,5 +1,29 @@
+# macOS
 .DS_Store
-.claudian/sessions/
-.claude/
+.AppleDouble
+.LSOverride
+
+# Obsidian 个人配置（不上传）
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+.obsidian/types.json
+.obsidian/graph.json
+.obsidian/canvas.json
+.obsidian/bookmarks.json
+.obsidian/daily-notes.json
+.obsidian/templates.json
+
+# Claudian 插件个人数据
+.obsidian/plugins/realclaudian/data.json
+
+# Claudian 应用个人配置
+.claudian/
+.claude/
+
+# 个人笔记草稿（如果需要）
+# *.draft.md
