@@ -1,5 +1,7 @@
 # 🎯 全栈 + AI Agent 学习路线
 
+**简体中文** | [English](README.en.md) | [日本語](README.ja.md)
+
 > **从零基础到 AI 时代全栈工程师** —— 一份用 Obsidian 组织的、超过 **58 万字 / 110 个详细教程**的系统化学习路线。
 >
 > 涵盖 **Python · JavaScript · React · FastAPI · 数据库 · LLM · AI Agent · 毕业项目**，每个知识点都附**类比解释 + 完整代码 + 练习题 + GitHub 项目推荐**。
